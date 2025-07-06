@@ -22,13 +22,7 @@ import {
 } from "firebase/auth";
 
 const firebaseConfig = {
-   apiKey: "AIzaSyABXhQICXjwV14aXRyMmo_lHr-cO3O3FSo",
-   authDomain: "fir-mbp-67280.firebaseapp.com",
-   projectId: "fir-mbp-67280",
-   storageBucket: "fir-mbp-67280.firebasestorage.app",
-   messagingSenderId: "912870586885",
-   appId: "1:912870586885:web:a585481e911b5acf9d3a6c",
-   measurementId: "G-MSJWMSVLZZ",
+ // get config on firebase
 };
 
 // Initialize Firebase app
